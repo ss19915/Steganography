@@ -1,6 +1,6 @@
 # Steganography
 It is an android app used to hide any file inside a image .
-It uses LSB technique to hide files into an PNG image.
+It uses LSB modification technique to hide files into an PNG image.
 Any type of file(including binary files) can be embedded into any image.
 All images have a capaciy to hide a file depending on total pixel of the image.
 The app conceals files into pixels of input image,the new modified image is called stego image. 
